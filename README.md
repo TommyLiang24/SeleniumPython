@@ -1,2 +1,2 @@
 # SeleniumPython
-this is a brief introduction.
+Those are knowledges I learned about selenium with python.
